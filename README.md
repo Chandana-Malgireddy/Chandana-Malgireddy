@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Chandana Malgireddy
 
 ## Current Role
-**🎓 Aspiring Data Scientist | .NET Full Stack Developer | AI/ML Enthusiast<br>**
-**🔭 Currently working on AI-powered financial chatbots and fraud detection using Supervised and Reinforcement Learning.**
+**.NET Full Stack Developer | AI/ML Enthusiast<br>**
+**Currently working on AI-powered financial chatbots and fraud detection using Supervised and Reinforcement Learning.**
 
 ## Skills & Technologies
 
